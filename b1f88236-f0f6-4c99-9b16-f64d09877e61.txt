@@ -1,0 +1,6 @@
+browser.sentry-cdn.com
+notify.bugsnag.com
+sessions.bugsnag.com
+.browser.sentry-cdn.com
+.notify.bugsnag.com
+.sessions.bugsnag.com
